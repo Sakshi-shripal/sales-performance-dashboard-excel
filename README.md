@@ -33,9 +33,9 @@ An interactive Sales Performance Dashboard created using Microsoft Excel to anal
 - `images/dashboard_preview.png` – Dashboard screenshot.
 
 ## Dashboard Preview
-<p align="center">
-  <img src="images/dashboard_preview.png" alt="Sales Performance Dashboard" width="100%">
-</p>
+
+![Sales Performance Dashboard](https://github.com/Sakshi-shripal/sales-performance-dashboard-excel/blob/main/images/dashboard_preview.png?raw=true)
+
 
 ## Key Learnings
 - Creating interactive Excel dashboards.
